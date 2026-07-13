@@ -113,7 +113,7 @@ div.stButton > button:hover {
 """)
 
 # 3. Header section (Only Title, Subtitle removed)
-st.html('<div class="main-title">🎬 Movie Recommender System</div>')
+st.html('<div class="main-title">🎬 English Movie Recommender System</div>')
 
 # 4. Fetch Poster Helper function
 def fetch_poster(movie_id):
